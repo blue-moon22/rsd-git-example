@@ -6,4 +6,4 @@ It is very difficult to take a photo of a black hole. You need a giant telescope
 
 So scientists are currently building a giant telescope on Mars.
 
-They then create software to reconstruct the image of the black hole.
+They then create software to reconstruct the image of the black hole. A collaborative effort from researchers with different expertise is needed.
