@@ -1,2 +1,2 @@
-An description of black holes
+A imaging black holes
 =============================
