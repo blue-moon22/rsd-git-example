@@ -8,4 +8,4 @@ Instead scientists use many telescopes around the world to take images of parts 
 
 They then create software to reconstruct the image of the black hole. A collaborative effort from researchers with different expertise is needed.
 
-Dr Katie Bouman from MIT was the first person to reconstruct a black hole.
+Dr Katie Bouman from MIT was the first person to reconstruct a black hole. She used software that was built by her and collaborators.
