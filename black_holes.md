@@ -1,4 +1,4 @@
-A imaging black holes
+Imaging black holes
 =============================
 ## An introduction into imaging black holes
 
