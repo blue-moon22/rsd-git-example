@@ -20,3 +20,13 @@ The site below contains some cool black holes/string simulation videos.
 [title](http://www.grchombo.org/movies)
 
 A new line here.
+
+Time for Horrible Black Hole puns
+---------------
+
+Why did the Black Hole get arrested?
+....
+
+It committed mass murder
+
+------------
